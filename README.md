@@ -15,3 +15,30 @@
     4 : Start Jmeter
              **Windows** - jmeter/bin - jmeter.bat
              **Mac** - open terminal - jmeter/bin - sh jmeter.sh
+
+## Step - 2
+
+    1. Add Chrome [extension](chrome://extensions/?id=mbopgmdnpcbohhpnfglgohlbhfongabi)
+
+    2. Go to gmail.com
+
+    3. Click on extension // add image 
+
+    4. Input the Name && Click on Start Recording button
+
+    5. Insert credential
+
+    6. Log in Success
+
+    7. Stop recording
+
+    8. Click Save
+        * Select script(s) to save -> jmeter only(JMX)
+
+        * Select domains to include in your JMeter script
+
+        1. google.com
+        2. clients6.google.com
+        3. click save
+
+    
