@@ -1,43 +1,40 @@
 # j-meter_test
 
-
 ##  Step - 1
 
-    1.  Check java is installed on your system
+1.  Check java is installed on your system
         `java -version`
+OR install [java](https://www.youtube.com/watch?v=FqpmH8MVO6A&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU)
 
-        OR install [java](https://www.youtube.com/watch?v=FqpmH8MVO6A&list=PLhW3qG5bs-L_qj1L5hnHvJYeFpQ_g4UuU)
-        
-        [link to Google!](http://google.com)
+2 : Download Jmeter from internet
 
-    2 : Download Jmeter from internet
+3 : Unzip and keep Jmeter folder at any location
 
-    3 : Unzip and keep Jmeter folder at any location
-
-    4 : Start Jmeter
+4 : Start Jmeter
              **Windows** - jmeter/bin - jmeter.bat
              **Mac** - open terminal - jmeter/bin - sh jmeter.sh
 
 ## Step - 2
 
-    1. Add Chrome [extension](chrome://extensions/?id=mbopgmdnpcbohhpnfglgohlbhfongabi)
+ 1. Add Chrome [extension](https://www.blazemeter.com/)
 
-    2. Go to gmail.com
+ 2. Go to gmail.com
 
-    3. Click on extension // add image 
+ 3. Click on extension // add image 
 
-    4. Input the Name && Click on Start Recording button
+ 4. Input the Name && Click on Start Recording button
 
-    5. Insert credential
+ 5. Insert credential
 
-    6. Log in Success
+ 6. Log in Success
 
-    7. Stop recording
+ 7. Stop recording
 
-    8. Click Save
-        * Select script(s) to save -> jmeter only(JMX)
+ 8. Click Save
+        
+ * Select script(s) to save -> jmeter only(JMX)
 
-        * Select domains to include in your JMeter script
+ * Select domains to include in your JMeter script
 
         1. google.com
         2. clients6.google.com
