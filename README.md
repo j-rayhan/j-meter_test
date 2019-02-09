@@ -58,3 +58,15 @@
         * Loop Count: 1
     
     5. Click on Run -> Start
+
+## Step - 4
+
+    1. Create Folder in jmeter/bin/examples/__folder_name__/
+
+    2. Create Folder in jmeter/bin/examples/html/__folder_name__/__folder_name__/
+
+    4. Run this Command
+    ```
+    ./jmeter.sh -n -t ../backups/*.jmx -l ./examples/__folder_name__/__file_name__.csv -e -o ./examples/html/__folder_name__/__folder_name__/ 
+    
+    ```
