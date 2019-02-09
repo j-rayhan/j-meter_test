@@ -41,4 +41,20 @@
         2. clients6.google.com
         3. click save
 
+## Step - 3
+
+    1. Run Jmeter App
+
+    2. Open The dounloded file *.jmx
+        File -> Open -- select file (**/Downloads/*.jmx)
+
+    3. Select 
+        * Mouse Right Click on __File_name__ -> Add -> Listener -> View Results Tree
+        * Mouse Right Click on __File_name__ -> Add -> Listener -> View Results in Table
+
+    4. Click on __Thread Group__
+        * Input Number of Threads (users): 100
+        * Ramp-Up Period (in seconds): 10
+        * Loop Count: 1
     
+    5. Click on Run -> Start
